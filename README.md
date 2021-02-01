@@ -1,2 +1,2 @@
-# Spring
-This is repository for Spring learing
+## Spring
+*This is repository for Spring learning
